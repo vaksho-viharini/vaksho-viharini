@@ -9,7 +9,7 @@ Recent B.Tech Graduate in Computer Science & Software Engineering, specializing 
 - **Languages:** Python, Java, SQL, C++
 - **AI / ML Frameworks:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy
 - **Generative AI & Web:** LangChain, OpenAI APIs, REST APIs, FastAPI, Flask
-- **Developer Tools & Cloud:** Git, Docker, AWS (Basics), VS Code
+- **Developer Tools & Cloud:** Git, Docker, AWS (Basics), VS Code.
 
 ---
 
